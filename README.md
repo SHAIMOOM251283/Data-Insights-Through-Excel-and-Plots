@@ -18,8 +18,8 @@ Data_Insights_Through_Excel_and_Plots/
 │   ├── phones_data.xlsx         # Data for tablets
 │   └── tablets_data.xlsx          # Data for phones
 │
-├── ecommerce_data_scraper.py     # Script for scraping data
-└── data_visualization.py         # Script for visualizing data
+├── data_visualization.py     # Script for visualizing data
+└── ecommer_data_scraper.py         # Script for scraping data
 ```
 ## Features
 - **Excel File Integration:** Scraped data is organized and stored in Excel files, offering a practical format for further analysis or reporting.
