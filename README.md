@@ -15,8 +15,8 @@ Data_Insights_Through_Excel_and_Plots/
 │
 ├── EcomData/                     # Folder to store scraped data in Excel files
 │   ├── laptops_data.xlsx         # Data for laptops
-│   ├── tablets_data.xlsx         # Data for tablets
-│   └── phones_data.xlsx          # Data for phones
+│   ├── phones_data.xlsx         # Data for tablets
+│   └── tablets_data.xlsx          # Data for phones
 │
 ├── ecommerce_data_scraper.py     # Script for scraping data
 └── data_visualization.py         # Script for visualizing data
